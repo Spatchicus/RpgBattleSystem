@@ -1,0 +1,7 @@
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\bin\Debug\RpgBattleSystem.exe.config
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\bin\Debug\RpgBattleSystem.exe
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\bin\Debug\RpgBattleSystem.pdb
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\obj\Debug\RpgBattleSystem.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\obj\Debug\RpgBattleSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\obj\Debug\RpgBattleSystem.exe
+C:\Users\Gary\Google Drive\Programming\C# - Programming for Complete Beginners in C#\RpgBattleSystem\RpgBattleSystem\obj\Debug\RpgBattleSystem.pdb
